@@ -7,16 +7,15 @@ Over the weekend we had 20 people on Saturday, and XX on Sunday, come together t
 
 You can read the [event homepage](https://codethecity.org/ctc31/) for more background about this event. 
 
-<!--
 ## The Projects
 The x projects which attendees worked on over the weekend were:
 
-### Project XX
-[Project name](https://github.com/CodeTheCity/PROJECT_NAME) and description
+### Branded School Uniforms
+[Branded School Uniforms](https://github.com/CodeTheCity/BrandedSchoolUniforms) making it easier to research policy implications of school uniform policies
 
-### Project XX
-[Project name](https://github.com/CodeTheCity/PROJECT_NAME) and description
+### Councillor Metric
+[Councillor Metric](https://github.com/CodeTheCity/CouncillorMetric) enabling metrics for councillors
 
-### Project XX
-[Project name](https://github.com/CodeTheCity/PROJECT_NAME) and description
--->
+### Council Viz
+[Council Viz](https://github.com/CodeTheCity/CouncilViz) creating visualisations for council structure
+
