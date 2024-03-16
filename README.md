@@ -19,3 +19,7 @@ The x projects which attendees worked on over the weekend were:
 ### Council Viz
 [Council Viz](https://github.com/CodeTheCity/CouncilViz) creating visualisations for council structure
 
+### Street Sentinel
+[Street Sentinel](https://github.com/CodeTheCity/StreetSentinel) tracking outstanding road defects in Aberdeen
+
+
